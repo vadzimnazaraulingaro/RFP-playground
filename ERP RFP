@@ -1,0 +1,6 @@
+Subject: RE: RFP / Initial Requirements for SyncLogix ERP Upgrade
+Hi Team,
+We need a modern ERP setup to replace our old legacy system. Right now, our field sales team is using Excel spreadsheets to track inventory across our 3 regional warehouses, and it’s a total disaster—we keep selling stock we don't actually have. We want a mobile app for them where they can create orders on the road, and it needs to update inventory in real-time. Oh, and it must work 100% offline because our teams visit remote manufacturing sites with absolutely zero cell service, but we still need the inventory counts to be perfectly accurate across all warehouses at that exact second.
+Also, the finance team needs automated invoicing sent to QuickBooks, and our warehouse staff needs a barcode scanner feature built into the app. We have about 50 field reps and 10 warehouse staff. Our budget is tight, so we want this done in 6 to 8 weeks maximum. Let us know if you can build this and what the architecture looks like.
+Thanks,
+Dave (Director of Operations, SyncLogix)
